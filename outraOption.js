@@ -1,3 +1,5 @@
+// isso eh a resposta do dia 5, decidi salver aqui pq achei bem mais simples que o meu. E a parte final de deixar o alert bunitinha, esta ali tbm, nao consegui fazer no meu.
+
 let frutas = [];
 let laticinios = [];
 let doces = [];
